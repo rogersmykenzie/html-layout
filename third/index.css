@@ -1,0 +1,36 @@
+#top {
+    background: rgb(210,210,210);
+    height: 125px;
+}
+#boxx {
+    margin-top: 12px;
+    margin-left: 30px;
+    height: 100px;
+    width: 100px;
+    background: rgb(65,133,222);
+    display: inline-block;
+}
+#text {
+    height: 275px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#blue {
+    height: 150px;
+    background: rgb(65,133,222);
+}
+#teal {
+    height: 150px;
+    background: rgb(71,223,186);
+}
+#green {
+    height: 150px;
+    background: rgb(175,229,123);
+}
+#yellow {
+    height: 150px; 
+    background: rgb(247, 227, 27);
+}
+p {
+    margin-left: 50px;
+    margin-top: 50px;
+}
