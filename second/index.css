@@ -56,3 +56,150 @@ p {
     font-weight: bold;
     letter-spacing: 10px;
 }
+@media only screen and (max-width: 1023px) {
+    #bottom {
+        height: 270px;
+    }
+    p {
+        margin-top : 90px;
+    }
+}
+@media only screen and (max-width: 999px) {
+    #bottom {
+        height: 220px;
+    }
+    p {
+        margin-top: 60px;
+    }
+}
+@media only screen and (max-width: 953px) {
+    p {
+        font-size: 2.5em;
+        margin-top: 50px;
+    }
+    #bottom {
+        height: 190px;
+    }
+}
+@media only screen and (max-width: 819px) {
+    #green {
+        margin-left: 25px;
+    }
+    #circle {
+        margin-left: 25px;
+    }
+    p {
+        font-size: 1.7em;
+        margin-top: 60px;
+    }
+}
+@media only screen and (max-width: 794px) {
+    #green {
+        margin-left: 18px;
+    }
+    #circle {
+        margin-left: 18px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    #green {
+        margin-left: 10px;
+    }
+    #circle {
+        margin-left: 10px;
+    }
+}
+@media only screen and (max-width: 738px) {
+    #purple {
+        width: 40px;
+        height: 125px;
+    }
+    #circle {
+        margin-left: 7px;
+        width: 175px;
+        height: 175px;
+    }
+    #green {
+        margin-left: 7px;
+        width: 375px;
+        height: 175px;
+    }
+    #top-main {
+        height: 200px;
+    }
+}
+@media only screen and (max-width: 677px) {
+    #purple {
+        width: 35px;
+        height: 100px;
+    }
+    #circle {
+        width: 150px;
+        height: 150px;
+        margin-left: 5px;
+    }
+    #green {
+        width: 350px;
+        height: 150px;
+        margin-left: 5px;
+    }
+    #top-main {
+        height: 180px;
+    }
+}
+@media only screen and (max-width:618px) {
+    #green {
+        width: 325px;
+    }
+    #top-main {
+        height: 180px;
+    }
+}
+@media only screen and (max-width: 593px) {
+    #green {
+        width: 300px;
+    }
+    #circle {
+        width: 135px;
+        height: 135px;
+        margin-bottom: 6px;
+    }
+}
+@media only screen and (max-width: 553px) {
+    #green {
+        width: 270px;
+    }
+    #circle {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 12px;
+    }
+}
+@media only screen and (max-width: 513px) {
+    #green {
+        width: 215px;
+    }
+}
+@media only screen and (max-width: 462px) {
+    #green {
+        width: 150px;
+    }
+}
+@media only screen and (max-width: 763px) {
+    p {
+        font-size: 1em;
+    }
+    #bottom {
+        height: 150px
+    }
+}
+@media only screen and (max-width: 755px) {
+    #bottom {
+        width: 150px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    p {
+        margin-left: 10px;
+    }
+}
